@@ -1,0 +1,6 @@
+{
+  "name": "Dog Pose Trainer",
+  "description": "Real-time dog pose detection app to help train dogs to sit with instant automated coaching feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
